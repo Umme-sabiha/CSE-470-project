@@ -1,0 +1,218 @@
+
+body{
+    font-family: "Montserrat";
+    padding:0%;
+}
+
+#title{
+    background-color: #e67d53;
+    color: #fff;
+}
+.container-fluid{
+    padding:4% 12% ;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-weight: bold; */
+    font-size: 3rem;
+    line-height: 1.5 ;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+
+}
+h4{
+    color: #c09768;
+}
+p{
+    color: #8f8f8f;
+    
+}
+
+/* Navigation-Bar */
+
+.navbar{
+    /* padding-top: 0rem;
+    padding-bottom: 4rem;
+    padding-left:0.1rem ; */
+    padding: 0.2% 0.001% 5.2%;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding:0 -0.1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.nav-link{
+    font-size: 1.15rem;
+}
+
+/* Download-Buttons */
+   
+.download-button{
+    margin : 5% 3% 5% 0;
+}
+
+/* Title-Image */
+ .title-image{
+    padding-right: 7%;
+   width:126%;
+   height: 100%; 
+   
+ }
+
+ /* Feature-Section */
+ #features{
+    padding:7% 15%;
+ }
+ .feature-box{
+    text-align: center;
+    padding:5%;
+ }
+ 
+.icon{
+    color: #e67d53;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+/* Testimonial-Section */
+#testimonials{
+    padding: 9% 15%;
+    text-align: center;
+    background-color: #e67d53;
+    color: #fff;
+    
+}
+.testimonial-image{
+    padding : 3%;
+}
+.review{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* #press{
+    background-color: #e67d53;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin:20px 20px 50px;
+} */
+
+.carousel-item{
+    padding: 4% 8%;
+}
+
+/* Pricing Section */
+#pricing{
+    padding: 100px;
+}
+.pricing-column{
+    padding: 3% 2%;
+}
+.make{
+    text-align: center;
+    
+}
+.card-body{
+    
+    padding-top: 7%;
+}
+.cos{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 6%;
+}
+
+/* Facilities-styles */
+.team-member {
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+  .team-member img {
+    width: 14rem;
+    height: 14rem;
+    border: 0.5rem solid rgba(0, 0, 0, 0.1);
+  }
+  .team-member h4, .team-member .h4 {
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+  }
+  
+  .img-brand {
+    height: 2.75rem;
+  }
+
+  .section-heading{
+    padding: 4% 4%;
+   
+  }
+
+  .col-lg-6{
+    padding-right: 0%;
+    padding-left: 0%;
+  }
+
+  .package-heading{
+    text-align: center;
+    padding:0% 0% 0% 0%;
+  }
+
+  #pricing{
+    background-color: #ffe2d7;
+  }
+  
+  #footer{
+    text-align: center;
+    background-color: #ffe2d7;
+  }
+ 
+  .about-img{
+    width: 100%;
+  }
+  .sale-img{
+    width: 100%;
+    height: 20%;
+    /* padding-left: 28%; */
+    padding-bottom: 3%;
+    padding-top: 0%;
+  }
+
+  .sub-menu ul li:hover{
+    background-color: coral;
+    border-radius: 3px;
+  }
+
+  /* Contact-US */
+  .contact-txt{
+    text-align: center;
+    font-family: "Ubuntu";
+    font-weight: bold;
+  }
+  #contacts{
+    padding:7% 15%;
+ }
+ .contact-box{
+    text-align: center;
+    padding:5%;
+ }
+ /* Footer-Icons */
+ #socials{
+    padding:3% 42%;
+ }
+ .icons:hover{
+    color:#ce4a60;
+}
